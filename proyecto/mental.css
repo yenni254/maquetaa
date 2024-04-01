@@ -1,0 +1,145 @@
+.primera-pantalla {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .primera-pantalla .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .primera-pantalla .text-wrapper {
+    position: absolute;
+    width: 606px;
+    top: 265px;
+    left: 35px;
+    font-family: American Typewriter (serif) ;
+    font-weight: 500;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .primera-pantalla .img-bienestar {
+    width: 366px;
+    height: 321px;
+    top: 245px;
+    left: 885px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .primera-pantalla .p {
+    position: absolute;
+    width: 832px;
+    top: 319px;
+    left: 20px;
+    font-family:American Typewriter (serif) ;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .primera-pantalla .overlap-group {
+    position: absolute;
+    width: 1443px;
+    height: 205px;
+    top: 0;
+    left: 0;
+    background-color: #cbb3ef;
+    border-bottom-left-radius:10% 30% ;
+    border-bottom-right-radius:10% 30% ;
+
+  }
+  
+  .primera-pantalla .text-wrapper-2 {
+    position: absolute;
+    width: 1271px;
+    top: 0px;
+    left: 16px;
+    font-family: American Typewriter (serif);
+    font-weight: 300;
+    color: #000000;
+    font-size: 62px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .primera-pantalla .text-wrapper-3 {
+    position: absolute;
+    width: 180px;
+    top: 634px;
+    left: 748px;
+    font-family: "Abhaya Libre-Regular", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .primera-pantalla .img-ansiedad {
+    width: 505px;
+    height: 338px;
+    top: 835px;
+    left: 16px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .primera-pantalla .ansiedad {
+    position: absolute;
+    width: 690px;
+    top: 684px;
+    left: 560px;
+    font-family: American Typewriter (serif);
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .primera-pantalla .img-depre {
+    width: 440px;
+    height: 320px;
+    top: 1569px;
+    left: 27px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .primera-pantalla .depresion {
+    position: absolute;
+    width: 704px;
+    top: 1464px;
+    left: 563px;
+    font-family: American Typewriter (serif);
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .primera-pantalla .text-wrapper-depre {
+    position: absolute;
+    width: 235px;
+    top: 1410px;
+    left: 748px;
+    font-family: "Abhaya Libre-Regular", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

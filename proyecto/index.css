@@ -1,0 +1,157 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #94e9d3;
+    overflow: hidden;
+    width: 1200px;
+    height: 1000px;
+    position: relative;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 1610px;
+    height: 341px;
+    top: -77px;
+    left:-45px;
+  }
+  
+  .desktop .ellipse {
+    width: 396px;
+    left: 260px;
+    border-radius: 100px/170.5px;
+    position: absolute;
+    height: 341px;
+    top: 0;
+    background-color: #0db491;
+  }
+  
+  .desktop .ellipse-2 {
+    width: 398px;
+    left: 580px;
+    border-radius: 100px/170.5px;
+    position: absolute;
+    height: 341px;
+    top: 0;
+    background-color: #0db491;
+  }
+  
+  .desktop .ellipse-3 {
+    width: 356px;
+    left: 0px;
+    border-radius: 100px/170.5px;
+    position: absolute;
+    height: 341px;
+    top: 0;
+    background-color: #0db491;
+  }
+  
+  .desktop .ellipse-4 {
+    width: 371px;
+    left: 910px;
+    border-radius: 100px/170.5px;
+    position: absolute;
+    height: 341px;
+    top: 0;
+    background-color: #0db491;
+  }
+  
+
+  
+  .desktop .bienestar-mental-y {
+    position: absolute;
+    width: 1305px;
+    top: 50px;
+    left: 0px;
+    font-family: American Typewriter (serif);
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 493px;
+    height: 487px;
+    top: 455px;
+    left: 70px;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 493px;
+    height: 430px;
+    top: 57px;
+    left: 0px;
+    background-color: #0db491;
+    border-radius: 40px;
+  }
+  
+  .desktop .image {
+    left: 97px;
+    position: absolute;
+    width: 307px;
+    height: 225px;
+    top: 0;
+    object-fit: cover;
+    border-radius: 70px;
+  }
+  
+  .desktop .bienestar-mental {
+    position: absolute;
+    width: 412px;
+    top: 270px;
+    left: 41px;
+    font-family: American Typewriter (serif);
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+  }
+  
+  .desktop .overlap-2 {
+    position: absolute;
+    width: 493px;
+    height: 487px;
+    top: 455px;
+    left: 634px;
+  }
+  
+  .desktop .img {
+    left: 93px;
+    position: absolute;
+    width: 307px;
+    height: 225px;
+    top: 0;
+    object-fit: cover;
+    border-radius: 70px;
+  }
+  
+  .desktop .primeros-auxilios {
+    position: absolute;
+    width: 415px;
+    top: 271px;
+    left: 39px;
+    font-family: American Typewriter (serif);
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+  }
+  
+  
